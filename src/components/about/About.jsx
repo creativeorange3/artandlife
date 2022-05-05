@@ -30,7 +30,7 @@ const About = () => {
                 Hi, I'm <span>Rokers Nelson</span>
               </h3> */}
               <p>
-                Art&Life je  centar za razvijanje kreativnih pozencijala za decu i ljude svih generacija koji su odlučili da razviju svoje talente.
+                Art&Life je  centar za razvijanje kreativnih potencijala za decu i ljude svih generacija koji su odlučili da razviju svoje talente.
               </p>
             </div>
             <div className="my_skills">

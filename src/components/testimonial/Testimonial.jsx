@@ -27,7 +27,7 @@ export default function Testimonial() {
   const testimonialContent = [
     {
       img: "1",
-      desc: `Rodjena u Beogradu. Master likovnih umetnosti. Član ULUS-a. Profesor u umetničkoj školi 'Djuro Salaj'. Radila u Pragu i u Rusiji. Učestvovala u više umetničkih projekata i izlagala na više grupnih izložbi u zemlji i inostranstvu.`,
+      desc: `Dugogodišnje iskustvo u radu sa decom i odraslima. Master likovnih umetnosti. Član ULUS-a. Profesor u umetničkoj školi 'Djuro Salaj'. Radila u Pragu i u Rusiji. Učestvovala u više umetničkih projekata i izlagala na više grupnih izložbi u zemlji i inostranstvu.`,
       name: "Tamara Nikić",
       designation: "",
       delayAnimation: "",

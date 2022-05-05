@@ -37,7 +37,7 @@ const HomeLight = () => {
       <div className="edina_tm_testimonials" id="testimonial">
         <div className="container">
           <div className="edina_tm_title">
-            <h3>Biografije</h3>
+            <h3>Edukatori</h3>
             <p>
               
             </p>

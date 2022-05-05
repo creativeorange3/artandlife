@@ -43,6 +43,25 @@ const Address = () => {
           {/* End .content */}
         </div>
       </li>
+      <li data-aos="fade-right" data-aos-duration="1200" data-aos-delay="200">
+        <div className="list_inner">
+          <div className="icon">
+            <img src="img/address/insta.png" alt="icon" />
+          </div>
+          {/* End icon */}
+          <div className="content">
+            <h3>Instagram</h3>
+            <ul>
+              <li>
+                <a href="https://www.instagram.com/artandlife.rs">
+                  @artandlife.rs
+                </a>
+              </li>
+            </ul>
+          </div>
+          {/* End .content */}
+        </div>
+      </li>
     </ul>
   );
 };

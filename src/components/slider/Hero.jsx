@@ -5,7 +5,7 @@ const heroContent = {
   shapeImage: "hero-shape",
   heroImage: "2",
   name: "Art & Life",
-  description: `Centar za edukaciju i razvoj kreativnog mišljenja`,
+  description: `Centar za edukaciju i razvoj kreativnog potencijala`,
 };
 
 const Hero = () => {

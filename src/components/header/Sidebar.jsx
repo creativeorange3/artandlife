@@ -18,7 +18,7 @@ const sidebarContent = [
   },
   {
     icon: "testimonial",
-    itemName: "Biografije",
+    itemName: "Edukatori",
     itemRoute: "#testimonial",
     activeClass: "",
   },
