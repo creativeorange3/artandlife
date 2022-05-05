@@ -165,6 +165,18 @@ const Portfolio = () => {
               </div>
             </div>
           </li>
+          <li>
+            <div className="list_inner">
+              <div className="image">
+                  <img
+                    src="img/portfolio/12.jpg"
+                    data-tip
+                    data-for="product"
+                    alt="portfolio"
+                  />
+              </div>
+            </div>
+          </li>
           {/* End li */}
         </Slider>
       </ul>
